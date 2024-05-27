@@ -4,7 +4,6 @@
 - [Getting Started](#getting-started)
     - [Requirements](#requirements)
     - [Quickstart](#quickstart)
-        - [Optional Gitpod](#optional-gitpod)
 - [Usage](#usage)
     - [Deploy](#deploy)
     - [Testing](#testing)
